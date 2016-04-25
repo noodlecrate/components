@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/noodlecrate/components/issues"
   },
-  "homepage": "https://github.com/noodlecrate/components"
+  "homepage": "https://github.com/noodlecrate/components",
+  "devDependencies": {
+    "node-sass": "^3.5.3"
+  }
 }
